@@ -1,0 +1,34 @@
+.ash{
+    background-color: #FAFCFF;
+}
+.pink{
+    width:80%;
+    height: 50px;
+    border: none;
+    background-color:#FFEFD6;
+}
+
+.a-box  li{
+    list-style: none;
+}
+.a-box {
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+#list{
+    background:#48B499;
+    height: 40px;
+    width: 50%;
+    color: white;
+    border-radius: 10px;
+}
+
+.div {
+    background-color:#F9FBFF ;}
+    .div1 {
+        background-color:white ;
+    margin-right: 10px;}
+
+    .start{
+        text-align:initial;
+    }

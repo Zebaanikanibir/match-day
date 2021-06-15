@@ -2,7 +2,10 @@ import React from 'react'
 import image from '../../Images/image 172.png';
 const Footage = () => {
     return (
-        <div className="row">
+        <div>
+            <h2 className="start">Game Footage</h2>
+            <div className="row">
+            
             <div className="col-md-6 mt-5">
                 <img style={{ width: '500px' }} src={image} alt="" />
             </div>
@@ -64,6 +67,7 @@ const Footage = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }

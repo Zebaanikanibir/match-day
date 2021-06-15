@@ -6,7 +6,7 @@ import img4 from '../../Images/Rectangle 2627.png'
 const Highlight = () => {
     return (
         <div>
-            <h4 className="text-start">Highlights</h4>
+            <h1 className="start">Highlights</h1>
             <div className="row container-fluid">
             
             <div className="col-md-3">
